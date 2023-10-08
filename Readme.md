@@ -1,5 +1,22 @@
-## Visual Computing Mini Project - 2
-### Aaditya Baranwal - B20EE001
+## Minor Project - 2  >> Visual Computing Lab 
 
-## Video Activity Classification
-* A RNN (LSTM) Based Model to classify the activity of a person in a video.
+* Video Activity Classification for 5 classes
+
+### Aaditya Baranwal
+
+* B20EE001
+
+### Dataset
+
+![Structure](assets/data/data.png)(assets/data/)
+
+>> The dataset consists of 180 images of 5 different classes of wearable accessories. The dataset is divided into 2 parts: Training and Testing. The training dataset consists of 150 images and the testing dataset consists of 30 images. The link to the dataset is given below: <br>
+[Dataset](https://drive.google.com/drive/folders/1mdo8iInqFGXEhJxhW6qJ06tYs-78xa5M?usp=sharing)
+
+
+### WebAPP
+
+ [![WebApp](assets/preview.png)](https://video-activity-classification.streamlit.app/)
+
+### Report
+[Document](assets/report.pdf)
